@@ -4,6 +4,8 @@
     "jsx": "react",
     "target": "ES6",
     "allowJs": true,
+    "outDir": "./public",
     "esModuleInterop": true
-  }
+  },
+
 }
